@@ -1,0 +1,15 @@
+ter,50
+sas,10
+sas,20
+Bálint,1000
+sas,1210
+tetrr,2310
+rer,430
+sas,10
+sas,10
+sas,50
+sas,120
+sas,50
+sas,10
+rer,20
+dd,50
